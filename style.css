@@ -10,3 +10,9 @@ p {
   color: #666;
   background-color: burlywood;
 }
+footer {
+  color: brown;
+  background-color: greenyellow;
+  padding: 20px;
+  text-align: center;
+}
